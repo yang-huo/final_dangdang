@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="59de017e-e50a-4ee0-bd90-cd350cc31a29" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/final_dangdang/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/final_dangdang/.gitignore" afterDir="false" />
-    </list>
+    <list default="true" id="59de017e-e50a-4ee0-bd90-cd350cc31a29" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +38,7 @@
         <entry file="file://$PROJECT_DIR$/final_dangdang/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="56">
-              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+              <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -186,7 +184,7 @@
       <option name="presentableId" value="Default" />
       <updated>1573463101564</updated>
       <workItem from="1573463108701" duration="720000" />
-      <workItem from="1573464617338" duration="4129000" />
+      <workItem from="1573464617338" duration="4381000" />
     </task>
     <task id="LOCAL-00001" summary="tianjiale">
       <created>1573483981785</created>
@@ -216,17 +214,30 @@
       <option name="project" value="LOCAL" />
       <updated>1573484402793</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="tianjiale">
+      <created>1573484627318</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1573484627318</updated>
+    </task>
+    <task id="LOCAL-00006" summary="b">
+      <created>1573484787044</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1573484787044</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4849000" />
+    <option name="totallyTimeSpent" value="5101000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11058981" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11058981" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -240,7 +251,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.5321229" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.5321229" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -254,7 +265,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="tianjiale" />
-    <option name="LAST_COMMIT_MESSAGE" value="tianjiale" />
+    <MESSAGE value="b" />
+    <option name="LAST_COMMIT_MESSAGE" value="b" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/final_dangdang/urls.py">
@@ -300,7 +312,7 @@
     <entry file="file://$PROJECT_DIR$/final_dangdang/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="56">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
         </state>
       </provider>
     </entry>
